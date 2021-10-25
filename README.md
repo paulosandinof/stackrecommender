@@ -140,7 +140,7 @@ Escolha as views desejadas, e elas aparecerão no canto inferior da IDE.
 
 ## Links Importantes
 
-[Documentação original da ferramenta feita por Teresa](https://docs.google.com/document/d/15Iv3z1-pHAtvSX8h6tW-sRz1JH2MF5Q9HrzUBScQYUY/edit)
-[Apresentação da ferramenta na defesa do mestrado de Teresa](https://docs.google.com/presentation/d/1IwskfisDV4HKkDchb4gv4ienSBG8uGm9GJ9KVOnDSeA/edit#slide=id.p)
-[Apresentação do plugin de recomendações feito por Teresa](https://docs.google.com/presentation/d/1xymcVAPneaPwplpMP-8pZLxiUW3wFMj06Kgm4C00O7w/edit#slide=id.p)
-[Dissertação de Teresa](https://github.com/paulosandinof/stackrecommender/files/7406718/Dissertacao_versao_final.pdf)
+- [Documentação original da ferramenta feita por Teresa](https://docs.google.com/document/d/15Iv3z1-pHAtvSX8h6tW-sRz1JH2MF5Q9HrzUBScQYUY/edit)
+- [Apresentação da ferramenta na defesa do mestrado de Teresa](https://docs.google.com/presentation/d/1IwskfisDV4HKkDchb4gv4ienSBG8uGm9GJ9KVOnDSeA/edit#slide=id.p)
+- [Apresentação do plugin de recomendações feito por Teresa](https://docs.google.com/presentation/d/1xymcVAPneaPwplpMP-8pZLxiUW3wFMj06Kgm4C00O7w/edit#slide=id.p)
+- [Dissertação de Teresa](https://github.com/paulosandinof/stackrecommender/files/7406718/Dissertacao_versao_final.pdf)
