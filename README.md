@@ -136,7 +136,7 @@ Ao aplicar as alterações, pode-se usar ***ctrl + espaço*** para obter sugest�
 
 ***window > show view > other > stackrecommender***
 
-Escolha as views desejadas, e elas aparecerão no canto inferior da IDE.
+Escolha as views desejadas e elas aparecerão no canto inferior da IDE.
 
 ## Links Importantes
 
